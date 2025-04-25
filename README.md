@@ -1,5 +1,5 @@
 
- #Demand Forecasting for Supply Chain Systems
+ # Demand Forecasting for Supply Chain Systems
 
  Effective inventory management is crucial for retail businesses to optimize operations, minimize costs, and
  meet customer demand. This project leverages Machine Learning and Deep Learning to forecast product
